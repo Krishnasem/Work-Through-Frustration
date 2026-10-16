@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  font-family: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+body, button, input, textarea, select, h1, h2, h3, h4, h5, h6, p, span, a, label {
+  font-family: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}

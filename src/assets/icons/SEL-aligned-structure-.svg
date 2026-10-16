@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <!-- Outer circle with dashed border -->
+  <circle cx="50" cy="50" r="48" fill="#ffffff" stroke="#000000" stroke-width="1.2" stroke-dasharray="2.5 2.5" />
+
+  <g fill="#1665b1">
+    <!-- Top Database Cylinder Stack -->
+    <!-- Disk 1 (Top) -->
+    <path d="M 37.5 30.5 C 37.5 27.5 43 25.5 50 25.5 C 57 25.5 62.5 27.5 62.5 30.5 C 62.5 33.5 57 35.5 50 35.5 C 43 35.5 37.5 33.5 37.5 30.5 Z" />
+    <path d="M 37.5 30.5 L 37.5 35 C 37.5 38 43 40 50 40 C 57 40 62.5 38 62.5 35 L 62.5 30.5 C 62.5 33.5 57 35.5 50 35.5 C 43 35.5 37.5 33.5 37.5 30.5 Z" />
+
+    <!-- Disk 2 (Middle) -->
+    <path d="M 37.5 37.5 L 37.5 42 C 37.5 45 43 47 50 47 C 57 47 62.5 45 62.5 42 L 62.5 37.5 C 62.5 40.5 57 42.5 50 42.5 C 43 42.5 37.5 40.5 37.5 37.5 Z" />
+
+    <!-- Disk 3 (Bottom) -->
+    <path d="M 37.5 44.5 L 37.5 49 C 37.5 52 43 54 50 54 C 57 54 62.5 52 62.5 49 L 62.5 44.5 C 62.5 47.5 57 49.5 50 49.5 C 43 49.5 37.5 47.5 37.5 44.5 Z" />
+  </g>
+
+  <!-- Network / Branch Connector Lines -->
+  <path d="M 50 54 L 50 62 M 34 62 L 66 62 M 34 62 L 34 65.5 M 50 62 L 50 65.5 M 66 62 L 66 65.5" stroke="#1665b1" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- 3 Nodes / Modules at bottom -->
+  <g fill="#1665b1">
+    <!-- Left Box -->
+    <rect x="27.5" y="65.5" width="13" height="13" rx="1.5" />
+    <circle cx="34" cy="72" r="2.2" fill="#ffffff" />
+
+    <!-- Center Box -->
+    <rect x="43.5" y="65.5" width="13" height="13" rx="1.5" />
+    <circle cx="50" cy="72" r="2.2" fill="#ffffff" />
+
+    <!-- Right Box -->
+    <rect x="59.5" y="65.5" width="13" height="13" rx="1.5" />
+    <circle cx="66" cy="72" r="2.2" fill="#ffffff" />
+  </g>
+</svg>

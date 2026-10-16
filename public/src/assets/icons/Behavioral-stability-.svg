@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='256' height='256' fill='none'>
+  <circle cx='50' cy='50' r='48' fill='#ffffff' stroke='#000000' stroke-width='1.2' stroke-dasharray='2.5 2.5' />
+  <path d='M 34 75 L 34 68 C 34 63 36 61 38 59 C 37 56 36 52 36 48 C 36 36 45 28 57 28 C 69 28 77 36 77 48 C 77 55 74 61 68 64 L 68 68 C 68 72 70 74 74 75 Z' fill='none' stroke='#1665b1' stroke-width='3' stroke-linecap='round' stroke-linejoin='round' />
+  <path d='M 50 62 L 50 46' stroke='#1665b1' stroke-width='3.5' stroke-linecap='round' />
+  <path d='M 50 53 C 44 51 41 46 41 41 C 41 37 44 34 47 36' stroke='#1665b1' stroke-width='2.5' stroke-linecap='round' fill='none' />
+  <path d='M 50 49 C 55 47 59 44 60 39 C 61 35 57 33 54 35' stroke='#1665b1' stroke-width='2.5' stroke-linecap='round' fill='none' />
+  <circle cx='47' cy='35' r='3.2' fill='#1665b1' />
+  <circle cx='40' cy='41' r='2.8' fill='#1665b1' />
+  <circle cx='50' cy='32' r='3.5' fill='#1665b1' />
+  <circle cx='55' cy='34' r='3' fill='#1665b1' />
+  <circle cx='61' cy='39' r='2.8' fill='#1665b1' />
+  <path d='M 28 76 C 36 74 44 77 52 75 C 60 73 68 76 76 75' stroke='#1665b1' stroke-width='2.5' stroke-linecap='round' fill='none' />
+</svg>

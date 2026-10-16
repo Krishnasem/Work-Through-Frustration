@@ -1,0 +1,6 @@
+{
+  "name": "WTF - Work Through Frustrations",
+  "description": "A scalable mental wellness and SEL platform integrating evidence-based psychotherapy into K-12 education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <!-- Outer circle with dashed border -->
+  <circle cx="50" cy="50" r="48" fill="#ffffff" stroke="#000000" stroke-width="1.2" stroke-dasharray="2.5 2.5" />
+
+  <g fill="#1665b1">
+    <!-- Looping cycle arrow -->
+    <!-- Circular ribbon sweeping around from bottom left over the top -->
+    <path d="M 26 62.5 L 66 62.5 L 66 59.5 C 66 59.5 63 47 54 41 C 45 35 34 38 30 46 C 26 53 28 60 35 66 C 37 68 40 69 44 69.5 L 43.5 74.5 C 37 74 31 71.5 26.5 66.5 C 20.5 59.5 21 47.5 28 38.5 C 36 28.5 50 26 60 33 C 68 39 72 49 71 59.5 L 71 62.5 L 66 62.5 Z" />
+    
+    <!-- Bottom horizontal arrow shaft and head pointing right -->
+    <rect x="26" y="62.5" width="42" height="7" rx="0.5" />
+    <path d="M 67 59.5 L 75 66 L 67 72.5 Z" />
+
+    <!-- Central Gear / Cog -->
+    <!-- Gear center circle with hole -->
+    <path d="M 49 39.5 C 43.5 39.5 39 44 39 49.5 C 39 55 43.5 59.5 49 59.5 C 54.5 59.5 59 55 59 49.5 C 59 44 54.5 39.5 49 39.5 Z M 49 45 C 51.5 45 53.5 47 53.5 49.5 C 53.5 52 51.5 54 49 54 C 46.5 54 44.5 52 44.5 49.5 C 44.5 47 46.5 45 49 45 Z" fill-rule="evenodd" />
+    <!-- Gear teeth -->
+    <rect x="47" y="37" width="4" height="4" rx="0.8" />
+    <rect x="47" y="58" width="4" height="4" rx="0.8" />
+    <rect x="36.5" y="47.5" width="4" height="4" rx="0.8" />
+    <rect x="57.5" y="47.5" width="4" height="4" rx="0.8" />
+    <rect x="40" y="40.5" width="4" height="4" rx="0.8" transform="rotate(45 42 42.5)" />
+    <rect x="54" y="54.5" width="4" height="4" rx="0.8" transform="rotate(45 56 56.5)" />
+    <rect x="54" y="40.5" width="4" height="4" rx="0.8" transform="rotate(-45 56 42.5)" />
+    <rect x="40" y="54.5" width="4" height="4" rx="0.8" transform="rotate(-45 42 56.5)" />
+  </g>
+
+  <!-- Top-Right Checkmark Badge -->
+  <circle cx="66.5" cy="34" r="7.5" fill="#1665b1" stroke="#ffffff" stroke-width="1.8" />
+  <path d="M 63.5 34 L 65.8 36.3 L 70 32" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
