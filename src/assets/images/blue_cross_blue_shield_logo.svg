@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 54" width="220" height="54" fill="none">
+  <!-- Cross and Shield -->
+  <g transform="translate(8, 9)">
+    <!-- Cross square -->
+    <rect x="0" y="4" width="26" height="26" rx="5" fill="#005DAA" />
+    <path d="M10.5 7.5h5v5h5v5h-5v5h-5v-5h-5v-5h5z" fill="#FFFFFF" />
+    <!-- Shield square -->
+    <rect x="30" y="4" width="26" height="26" rx="5" fill="#005DAA" />
+    <path d="M43 9l-7 3v6c0 4.5 3 8 7 9.5 4-1.5 7-5 7-9.5v-6l-7-3z" fill="#FFFFFF" />
+  </g>
+  <!-- Text -->
+  <text x="70" y="24" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800" fill="#005DAA" letter-spacing="-0.2">BlueCross</text>
+  <text x="70" y="39" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800" fill="#005DAA" letter-spacing="-0.2">BlueShield</text>
+</svg>

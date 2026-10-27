@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 54" width="220" height="54" fill="none">
+  <!-- Triangles / Roof motif -->
+  <g transform="translate(10, 5)">
+    <path d="M18 2L3 22h30L18 2z" fill="#D9222A" />
+    <path d="M18 10L8 24h20L18 10z" fill="#FFFFFF" opacity="0.9" />
+    <circle cx="18" cy="27" r="3.5" fill="#D9222A" />
+  </g>
+  <!-- Text -->
+  <text x="52" y="24" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800" fill="#222222">Texas Children's</text>
+  <text x="52" y="40" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#555555" letter-spacing="0.5">Hospital®</text>
+</svg>

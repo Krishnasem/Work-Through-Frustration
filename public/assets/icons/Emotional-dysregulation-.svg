@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <!-- Outer circle with dashed border -->
+  <circle cx="50" cy="50" r="48" fill="#ffffff" stroke="#000000" stroke-width="1.2" stroke-dasharray="2.5 2.5" />
+
+  <!-- Brain with center Heart cutout in blue #1665b1 -->
+  <g fill="#1665b1">
+    <!-- Brain Silhouette -->
+    <!-- Left Hemisphere convolutions -->
+    <path d="M 47 24 C 41 24 37 27 35 30 C 31 29 27 32 25 36 C 22 40 23 45 26 48 C 23 52 23 57 26 61 C 24 65 26 70 30 73 C 34 76 39 76 43 74 C 45 75 47 75 48 74 L 48 64 C 47 62 46 60 44 59 C 41 57 37 54 37 47 C 37 42 41 38 46 38 C 47 38 48 38 49 39 L 49 24 C 48 24 48 24 47 24 Z" />
+
+    <!-- Right Hemisphere convolutions -->
+    <path d="M 53 24 C 59 24 63 27 65 30 C 69 29 73 32 75 36 C 78 40 77 45 74 48 C 77 52 77 57 74 61 C 76 65 74 70 70 73 C 66 76 61 76 57 74 C 55 75 53 75 52 74 L 52 64 C 53 62 54 60 56 59 C 59 57 63 54 63 47 C 63 42 59 38 54 38 C 53 38 52 38 51 39 L 51 24 C 52 24 52 24 53 24 Z" />
+
+    <!-- Central Heart Outline / shape in the middle -->
+    <path d="M 50 63 L 42 54 C 38 50 38 43 43 39 C 47 36 50 38 50 41 C 50 38 53 36 57 39 C 62 43 62 50 58 54 Z" fill="none" stroke="#1665b1" stroke-width="4.5" stroke-linejoin="round" />
+    <!-- Vertical stem under heart -->
+    <rect x="47.5" y="62" width="5" height="12" rx="2.5" />
+    <rect x="47.5" y="24" width="5" height="10" rx="2.5" />
+  </g>
+</svg>
