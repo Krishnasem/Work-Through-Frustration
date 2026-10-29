@@ -255,31 +255,38 @@ export const AboutUsPage: React.FC = () => {
           <div className="relative z-10 grid grid-cols-1 md:grid-cols-3 gap-8 divide-y md:divide-y-0 md:divide-x divide-white/20">
             {/* Pillar 1 */}
             <div className="flex flex-col items-center text-center p-4">
-              <img
-                src="/src/assets/icons/Therapist-informed-curriculum-.svg"
-                alt="Therapist–informed curriculum"
-                className="w-18 h-18 sm:w-20 sm:h-20 mb-4 object-contain drop-shadow-md"
-              />
+              <div className="flex items-center justify-center w-20 h-20 sm:w-24 sm:h-24 rounded-full bg-white shadow-md mb-4">
+                <img
+                  src="assets/icons/therapist-informed-curriculum-icon.png"
+                  alt="Therapist–informed curriculum"
+                  className="w-18 h-18 sm:w-20 sm:h-20 mb-4 object-contain drop-shadow-md"
+                />
+              </div>
+
               <h3 className="text-lg font-bold">Therapist–informed curriculum</h3>
             </div>
 
             {/* Pillar 2 */}
             <div className="flex flex-col items-center text-center p-4">
-              <img
-                src="/src/assets/icons/Evidence-based-methodology-.svg"
-                alt="Evidence–based methodology"
-                className="w-18 h-18 sm:w-20 sm:h-20 mb-4 object-contain drop-shadow-md"
-              />
+              <div className="flex items-center justify-center w-20 h-20 sm:w-24 sm:h-24 rounded-full bg-white shadow-md mb-4">
+                <img
+                  src="assets/icons/evidence-based-methodology-icon.png"
+                  alt="Evidence–based methodology"
+                  className="w-18 h-18 sm:w-20 sm:h-20 mb-4 object-contain drop-shadow-md"
+                />
+              </div>
               <h3 className="text-lg font-bold">Evidence–based methodology</h3>
             </div>
 
             {/* Pillar 3 */}
             <div className="flex flex-col items-center text-center p-4">
-              <img
-                src="/src/assets/icons/SEL-aligned-structure-.svg"
-                alt="SEL–aligned structure"
-                className="w-18 h-18 sm:w-20 sm:h-20 mb-4 object-contain drop-shadow-md"
-              />
+              <div className="flex items-center justify-center w-20 h-20 sm:w-24 sm:h-24 rounded-full bg-white shadow-md mb-4">
+                <img
+                  src="assets/icons/sel-aligned-structure-icon.png"
+                  alt="SEL–aligned structure"
+                  className="w-18 h-18 sm:w-20 sm:h-20 mb-4 object-contain drop-shadow-md"
+                />
+              </div>
               <h3 className="text-lg font-bold">SEL–aligned structure</h3>
             </div>
           </div>

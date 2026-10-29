@@ -13,7 +13,7 @@ export const OurSolutionPage: React.FC<OurSolutionPageProps> = ({ onNavigate }) 
   return (
     <div className="w-full bg-[#fbfcff] pb-16">
       {/* 1. Hero Banner */}
-      <FadeIn duration={2.5}>
+      <FadeIn duration={0.6}>
         <BannerHero
           title="An Integrated Platform for Emotional Regulation"
           cardStyle={{

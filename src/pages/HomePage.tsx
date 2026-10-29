@@ -249,7 +249,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             {/* Left image container */}
             <div className="lg:col-span-6 flex justify-center">
               <img
-                src="/src/assets/images/regenerated_image_1791400669799.webp"
+                src="assets/images/Dual-Model Approach.webp"
                 alt="Teacher assisting students in computer lab"
                 referrerPolicy="no-referrer"
                 className="max-w-md w-full h-auto object-contain block"
@@ -312,7 +312,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ height: '195px' }}
-              src="/src/assets/images/regenerated_image_1791403791082.webp"
+              src="assets/images/Academic focus.webp"
               alt="Academic focus"
               referrerPolicy="no-referrer"
               className="w-full h-[195px] rounded-2xl object-cover"
@@ -332,7 +332,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             </h4>
             <img
               style={{ height: '195px' }}
-              src="/src/assets/images/regenerated_image_1791403792540.webp"
+              src="assets/images/Behavioral stability.webp"
               alt="Behavioral stability"
               referrerPolicy="no-referrer"
               className="w-full h-[195px] rounded-2xl object-cover"
@@ -343,7 +343,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           <div className="bg-[#e2f7fa] rounded-3xl p-5 flex flex-col items-center justify-between transition-all hover:shadow-md">
             <img
               style={{ height: '195px' }}
-              src="/src/assets/images/regenerated_image_1791403794046.webp"
+              src="assets/images/Emotional resilience.webp"
               alt="Emotional resilience"
               referrerPolicy="no-referrer"
               className="w-full h-[195px] rounded-2xl object-cover"
@@ -363,7 +363,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             </h4>
             <img
               style={{ height: '195px' }}
-              src="/src/assets/images/regenerated_image_1791403795515.webp"
+              src="assets/images/Conflict resolution.webp"
               alt="Conflict resolution"
               referrerPolicy="no-referrer"
               className="w-full h-[195px] rounded-2xl object-cover"
@@ -389,7 +389,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ width: '80px', height: '80px', marginLeft: '-10px' }}
-              src="/src/assets/icons/Seasoned-Educators.svg"
+              src="assets/icons/r1_c1_circle.png"
               alt="Seasoned Educators"
               className="rounded-full shrink-0 shadow-xs object-contain"
             />
@@ -402,7 +402,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ width: '80px', height: '80px', marginLeft: '-10px' }}
-              src="/src/assets/icons/Frame-2147225586.svg"
+              src="assets/icons/r1_c2_circle.png"
               alt="Master of Social Work (MSW)"
               className="rounded-full shrink-0 shadow-xs object-contain"
             />
@@ -415,7 +415,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ width: '80px', height: '80px', marginLeft: '-10px' }}
-              src="/src/assets/icons/Licensed-Mental-Health-Counsellor-LMHC.svg"
+              src="assets/icons/r1_c3_circle.png"
               alt="Licensed Mental Health Counsellor (LMHC)"
               className="rounded-full shrink-0 shadow-xs object-contain"
             />
@@ -428,7 +428,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ width: '80px', height: '80px', marginLeft: '-10px' }}
-              src="/src/assets/icons/Licensed-Associate-Counsellor-LAC.svg"
+              src="assets/icons/r2_c1_circle.png"
               alt="Licensed Associate Counsellor (LAC)"
               className="rounded-full shrink-0 shadow-xs object-contain"
             />
@@ -441,7 +441,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ width: '80px', height: '80px', marginLeft: '-10px' }}
-              src="/src/assets/icons/Licensed-Clinical-Social-Worker-LCSW.svg"
+              src="assets/icons/r2_c2_circle.png"
               alt="Licensed Clinical Social Worker (LCSW)"
               className="rounded-full shrink-0 shadow-xs object-contain"
             />
@@ -454,7 +454,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           >
             <img
               style={{ width: '80px', height: '80px', marginLeft: '-10px' }}
-              src="/src/assets/icons/Licensed-Professional-Counsellor-LPC.svg"
+              src="assets/icons/r2_c3_circle.png"
               alt="Licensed Professional Counsellor (LPC)"
               className="rounded-full shrink-0 shadow-xs object-contain"
             />
@@ -486,7 +486,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
               >
                 <img
                   style={{ height: '222px' }}
-                  src="/src/assets/images/regenerated_image_1791486212545.webp"
+                  src="assets/images/High school students.webp"
                   alt="High school students"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -518,7 +518,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
               >
                 <img
                   style={{ width: '300px', height: '222px' }}
-                  src="/src/assets/images/regenerated_image_1791486214912.webp"
+                  src="assets/images/Happy family.webp"
                   alt="Happy family"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -547,7 +547,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
               >
                 <img
                   style={{ height: '222px' }}
-                  src="/src/assets/images/regenerated_image_1791486216574.webp"
+                  src="assets/images/Bussiness partnership meeting.webp"
                   alt="Business partnership meeting"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -576,7 +576,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
               >
                 <img
                   style={{ height: '222px' }}
-                  src="/src/assets/images/regenerated_image_1791486218254.webp"
+                  src="assets/images/Athletes on running track.webp"
                   alt="Athletes on running track"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

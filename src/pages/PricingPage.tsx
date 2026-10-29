@@ -17,7 +17,7 @@ export const PricingPage: React.FC<PricingPageProps> = ({ onNavigate }) => {
         <BannerHero
           title="Program Pricing & Enrollment Options"
           subtitle="Access the complete 16–week Frustration Management program designed to build emotional resilience, focus, and self–regulation."
-          imageSrc="/src/assets/images/regenerated_image_1791915815531.png"
+          imageSrc="assets/images/Pricing banner.png"
           cardStyle={{
             width: '1492.2px',
             marginLeft: '-135px',
